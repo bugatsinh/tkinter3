@@ -1,0 +1,6 @@
+self.destroy()
+    sv = pin()
+    sv.mainloop()
+class pin(varify):
+    def __init__(self) -> None:
+        super().__init__()
